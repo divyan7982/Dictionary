@@ -4,8 +4,8 @@
 
 Welcome to the Dictionary Project! This is a simple web-based dictionary application built using HTML, CSS, and JavaScript. The project provides users with the ability to search for word definitions and meanings in an easy-to-use interface.
 
+![image](https://github.com/divyan7982/Dictionary/assets/131895243/b1f07b88-a57d-4a35-91ab-5a349e954b9b)
 
-![Uploading image.png…]()
 
 
 ## Features
